@@ -1,0 +1,41 @@
+[33mcommit 6f76b3faf315ba6b1cfa301fc4ff3f3549af6f93[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Venkat Chandra <yvsc369@gmail.com>
+Date:   Fri Sep 30 07:51:02 2022 +0000
+
+    commiting some text files
+
+[1mdiff --git a/5MB.zip b/5MB.zip[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38da09a[m
+Binary files /dev/null and b/5MB.zip differ
+[1mdiff --git a/filename1.txt b/filename1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38da09a[m
+Binary files /dev/null and b/filename1.txt differ
+[1mdiff --git a/text1.txt b/text1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38da09a[m
+Binary files /dev/null and b/text1.txt differ
+[1mdiff --git a/text2.txt b/text2.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38da09a[m
+Binary files /dev/null and b/text2.txt differ
+[1mdiff --git a/text3.txt b/text3.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..38da09a[m
+Binary files /dev/null and b/text3.txt differ
+
+[33mcommit f21baa39ad597977928f8e678abd9b13b3e481f7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Venkat Chandra <yvsc.369@hotmail.com>
+Date:   Tue Sep 27 12:46:20 2022 +0530
+
+    added line in demo.txt
+
+[1mdiff --git a/demo.txt b/demo.txt[m
+[1mindex e8d2c58..0757846 100644[m
+[1m--- a/demo.txt[m
+[1m+++ b/demo.txt[m
+[36m@@ -1 +1,2 @@[m
+ i am vc from dba team [m
+[32m+[m[32mPoint1 --Desc ---some dummy data1[m
+\ No newline at end of file[m
