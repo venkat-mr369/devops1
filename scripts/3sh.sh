@@ -1,4 +1,4 @@
-#script is has accept and delete the file
+#script:- user exit are not
 echo -n "enter filename to name:"
 read fname
 if grep -w "$fname" /etc/passwd >/dev/null
