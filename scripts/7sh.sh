@@ -13,13 +13,14 @@ tput cup 17 1
 echo "4.current working directory"
 tput cup 18 1
 echo "5.Current connected user"
-tput cup 22 10
+tput cup 21 1
 echo -n "Enter your choice:"
 read choice
 case $choice in
 1)echo "Today date is: `date`";;
 2)sh script18.sh;;
-3)echo "Number of connected users: `who|wc -l`";;
+3)echo "Number of connected users: `who`";;
+#who|wc -l
 4)pwd;;
 5)whoami;;
 *)echo "Wrong choice.. try again";;
