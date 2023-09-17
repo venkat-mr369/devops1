@@ -1,3 +1,4 @@
+venkat director sales 95000
 ajay manager account 45000
 meena clerk account 25000
 tharun manager sales 50000
@@ -5,4 +6,10 @@ kiran manager account 47000
 ramu peon sales 15000
 deepak clerk sales 23000
 sudheer peon sales 13000
-sunil director purchase 80000 
+sunil director purchase 80000
+mamata clerk purchase 30000
+manager clerk purchase 12000
+rama watchman sales 8500
+rani helper sales 8000
+ranga labour sales 950
+ramana labour sales 900 
